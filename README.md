@@ -40,19 +40,21 @@
 
 ## 🛠️ Tech Stack
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,sklearn,tensorflow,pytorch&perline=6" />
+</p>
 
-<!-- Main Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,sklearn,tensorflow,pytorch,docker,git,github,fastapi,streamlit&perline=6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,fastapi,streamlit&perline=5" />
+</p>
 
-<br><br>
-
-<!-- Data Science Libraries (custom badges since skillicons doesn’t support all) -->
-<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=00FFAA"/>
-<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00FFAA"/>
-<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=00FFAA"/>
-<img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=python&logoColor=00FFAA"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=00FFAA"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00FFAA"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=00FFAA"/>
+  <img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=python&logoColor=00FFAA"/>
 </p>
 
 ---
