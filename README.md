@@ -24,8 +24,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <p align="center">
 
 <a href="https://github.com/arkapravaroy784/image-super-resolution-app">
