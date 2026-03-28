@@ -37,26 +37,6 @@ Machine learning system for detecting defects in industrial objects.
 Based on the MVTec dataset with a focus on computer vision and classification techniques.
 
 ---
-
-
----
-
-### 🔍 Image Super Resolution App
-
-🚀 Deep Learning-based image upscaling system
-🧠 Enhances low-resolution images using AI models
-⚡ Built with Python & deployed via Streamlit
-
----
-
-### 🧪 Bottle Anomaly Detection
-
-🔍 Detects defects in industrial objects using ML/DL
-📊 Based on MVTec dataset for real-world anomaly detection
-🧠 Focus on computer vision & classification techniques
-
-
----
 ## Tech Stack
 
 <!-- Core + ML + Tools -->
