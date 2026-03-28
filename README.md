@@ -37,8 +37,7 @@
 </p>
 
 ---
-
-<h2 align="center">🛠️ Tech Stack</h2>
+## Tech Stack
 
 <!-- Core + ML + Tools -->
 
