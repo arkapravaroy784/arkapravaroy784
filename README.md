@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Typing Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer+in+Progress;Building+AI+Projects;Future+Europe+Tech+Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer+in+Progress;Building+AI+Projects;" />
 </p>
 
 <!-- 👀 Visitor Counter -->
