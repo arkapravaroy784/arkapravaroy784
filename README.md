@@ -24,17 +24,20 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### [Image Super Resolution App](https://github.com/arkapravaroy784/image-super-resolution-app)
 
-<a href="https://github.com/arkapravaroy784/image-super-resolution-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=image-super-resolution-app&theme=chartreuse-dark&hide_border=true" />
-</a>
+Deep learning–based image upscaling system that enhances low-resolution images using AI models.
+Built with Python and deployed using Streamlit.
 
-<a href="https://github.com/arkapravaroy784/bottle-anomaly-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=bottle-anomaly-detection&theme=chartreuse-dark&hide_border=true" />
-</a>
+---
 
-</p>
+### [Bottle Anomaly Detection](https://github.com/arkapravaroy784/bottle-anomaly-detection)
+
+Machine learning system for detecting defects in industrial objects.
+Based on the MVTec dataset with a focus on computer vision and classification techniques.
+
+---
+
 
 ---
 
