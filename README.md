@@ -12,14 +12,14 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am currently developing end-to-end projects in computer vision and AI systems, with an emphasis on real-world applications and deployment.
 My goal is to become an industry-ready data scientist and pursue opportunities in Data & Tech roles.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Image Super Resolution App](https://github.com/arkapravaroy784/image-super-resolution-app)
 
@@ -53,7 +53,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arkapravaroy784&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -69,7 +69,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arkapravaroy784/arkapravaroy784/output/github-contribution-grid-snake.svg" />
