@@ -24,17 +24,36 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <p align="center">
 
-<a href="https://github.com/arkapravaroy784">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=YOUR_PROJECT_1&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/arkapravaroy784/image-super-resolution-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=image-super-resolution-app&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/arkapravaroy784">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=YOUR_PROJECT_2&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/arkapravaroy784/bottle-anomaly-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=bottle-anomaly-detection&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 </p>
+
+---
+
+### 🔍 Image Super Resolution App
+
+🚀 Deep Learning-based image upscaling system
+🧠 Enhances low-resolution images using AI models
+⚡ Built with Python & deployed via Streamlit
+
+---
+
+### 🧪 Bottle Anomaly Detection
+
+🔍 Detects defects in industrial objects using ML/DL
+📊 Based on MVTec dataset for real-world anomaly detection
+🧠 Focus on computer vision & classification techniques
+
 
 ---
 ## Tech Stack
