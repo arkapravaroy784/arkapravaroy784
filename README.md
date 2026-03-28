@@ -14,11 +14,8 @@
 
 ## 👨‍💻 About Me
 
-🚀 Aspiring **Data Scientist** passionate about solving real-world problems with data
-📊 Skilled in **Python, ML, Data Analysis & Visualization**
-🧠 Currently diving deep into **Deep Learning, NLP & LLMs**
-⚡ Focused on building **production-ready projects**
-🌍 Targeting **Data roles**
+I am currently developing end-to-end projects in computer vision and AI systems, with an emphasis on real-world applications and deployment.
+My goal is to become an industry-ready data scientist and pursue opportunities in Data & Tech roles.
 
 ---
 
