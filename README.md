@@ -59,12 +59,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkapravaroy784&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkapravaroy784&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arkapravaroy784&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapravaroy784&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=arkapravaroy784&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapravaroy784&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
