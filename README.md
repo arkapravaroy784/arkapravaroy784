@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- 🔥 Animated Typing Intro -->
 
-<!--
-**arkapravaroy784/arkapravaroy784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer+in+Progress;Building+AI+Projects;Future+Europe+Tech+Professional" />
+</p>
 
-Here are some ideas to get you started:
+<!-- 👀 Visitor Counter -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arkapravaroy784&label=Profile+Views&color=00ffaa&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Aspiring **Data Scientist** passionate about solving real-world problems with data
+📊 Skilled in **Python, ML, Data Analysis & Visualization**
+🧠 Currently diving deep into **Deep Learning, NLP & LLMs**
+⚡ Focused on building **production-ready projects**
+🌍 Targeting **Data roles**
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/arkapravaroy784">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=YOUR_PROJECT_1&theme=chartreuse-dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/arkapravaroy784">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkapravaroy784&repo=YOUR_PROJECT_2&theme=chartreuse-dark&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,c,sklearn,tensorflow,pytorch,docker,git,github,fastapi,streamlit" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkapravaroy784&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkapravaroy784&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapravaroy784&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arkapravaroy784/arkapravaroy784/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+<p align="center">
+  ⚡ "Turning Data into Decisions"
+</p>
