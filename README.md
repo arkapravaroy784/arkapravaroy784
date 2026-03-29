@@ -79,5 +79,5 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 
 <p align="center">
-  ⚡Turning Data into Decisions"
+  ⚡Turning Data into Decisions
 </p>
