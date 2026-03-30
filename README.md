@@ -69,7 +69,6 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arkapravaroy784/arkapravaroy784/output/github-contribution-grid-snake.svg" />
