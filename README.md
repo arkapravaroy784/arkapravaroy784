@@ -30,7 +30,7 @@ Built with Python and deployed using Streamlit.
 
 ### [Bottle Anomaly Detection](https://github.com/arkapravaroy784/bottle-anomaly-detection)
 
-Machine learning system for detecting defects in industrial objects.
+Machine learning system for detecting defects in objects.
 Based on the MVTec dataset with a focus on computer vision and classification techniques.
 
 ---
