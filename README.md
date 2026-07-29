@@ -14,7 +14,7 @@
 
 ##  About Me
 
-I am currently developing end-to-end projects in computer vision and AI systems, with an emphasis on real-world applications and deployment.
+I am currently developing end-to-end projects in ML and AI systems, with an emphasis on real-world applications and deployment.
 My goal is to become an industry-ready data scientist and pursue opportunities in Data & Tech roles.
 
 ---
