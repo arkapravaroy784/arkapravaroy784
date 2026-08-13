@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am currently developing end-to-end projects in ML and AI systems, with an emphasis on real-world applications and deployment.
 
@@ -20,7 +20,7 @@ My goal is to become an industry-ready data scientist and pursue opportunities i
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Image Super Resolution App](https://github.com/arkapravaroy784/image-super-resolution-app)
 
@@ -38,7 +38,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <!-- Core + ML + Tools -->
 
@@ -57,7 +57,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- GitHub Stats -->
 
