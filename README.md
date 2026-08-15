@@ -62,7 +62,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 <!-- GitHub Stats -->
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=arkapravroy784&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arkapravroy784&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
 </p>
 
 <!-- GitHub Streak -->
@@ -76,7 +76,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 <!-- Top Languages -->
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arkapravroy784&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapravroy784&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
