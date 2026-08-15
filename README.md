@@ -67,9 +67,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 <!-- GitHub Streak -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-arka-d246.vercel.app?user=arkapravaroy784&theme=shadow-green&hide_border=true&date_format=%20%b%20%d%20%Y" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-gl376rmyy-arka-d246.vercel.app?user=arkapravaroy784&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Top Languages -->
 
