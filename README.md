@@ -57,7 +57,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 
 ---
 
-##  GitHub Streak 
+##  Streak 
 
 <!-- GitHub Streak -->
 
