@@ -62,7 +62,7 @@ Based on the MVTec dataset with a focus on computer vision and classification te
 <!-- GitHub Streak -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-steel-tau.vercel.app/?user=arkapravroy784&theme=shadow-green&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-steel-tau.vercel.app/?user=arkapravaroy784&theme=shadow-green">
 </p>
 
 ---
